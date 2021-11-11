@@ -10,12 +10,14 @@ import streamlit as st
 st.title('Streamlit Project Idea and Reflections')
 
 st.markdown('After researching different utilizations for Streamlit Apps, one use seemed to stick out.')
-st.markdown('For example, we want to be able to easily look at timeseries forecasting for stock prices that we are interested in.')
-st.markdown('Streamlit would be a great way to deploy a model and we can even create parameters for certain views. For example, we can toggle between different companies or view different date/time ranges.')
+st.markdown('We can use Streamlit to create a stock prediction app and incorporate timeseries forecasting for stock prices that we are interested in.')
+st.markdown('Streamlit would be a great way to deploy a model and we can even create parameters for certain views. For example, we can include a sliding bar to view different date/time ranges.')
 st.markdown('The user can input the name of a certain stock they are interested in viewing further information about.')
 st.markdown('We can use the model and streamlit to create an entire dashboard for exploratory and predictive data.')
 
-st.markdown("I was able to create my own repository on GitHub, develop a StreamLit app with user input, and clone the repository on my desktop. 2. One thing I am still struggling with is committing and pushing changes into the repository. I don't fully understand the function of branches and how they link to the repository. 3. I am pretty comfortable with Spyder and getting more used to navigating Github (but need more practice). However, I would like to learn more with Visual Studio and Atom.")
+
+
+st.markdown("I was able to create my own repository on GitHub, develop a StreamLit app with user input, and clone the repository on my desktop. One thing I am still struggling with is committing and pushing changes into the repository. I don't fully understand the function of branches and how they link to the repository. I am pretty comfortable with Spyder and getting more used to navigating Github (but need more practice). However, I would like to learn more with Visual Studio and Atom.")
 
 # =============================================================================
 # import streamlit as st
